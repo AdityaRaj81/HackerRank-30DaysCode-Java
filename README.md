@@ -1,6 +1,5 @@
 # HackerRank-30DaysCode-Java
 
-
 ## 30 Days of Code - Java Solutions
 
 Welcome to my **30 Days of Code** repository! This project is dedicated to completing all challenges in the [HackerRank 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) series using Java, with one solution posted daily.
